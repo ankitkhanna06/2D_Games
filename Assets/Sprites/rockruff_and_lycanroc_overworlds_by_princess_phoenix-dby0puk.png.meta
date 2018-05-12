@@ -1,0 +1,2783 @@
+fileFormatVersion: 2
+guid: c7a00ffea8589b64ca9088e411d61071
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_0
+    21300002: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_1
+    21300004: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_2
+    21300006: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_3
+    21300008: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_4
+    21300010: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_5
+    21300012: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_6
+    21300014: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_7
+    21300016: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_8
+    21300018: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_9
+    21300020: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_10
+    21300022: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_11
+    21300024: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_12
+    21300026: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_13
+    21300028: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_14
+    21300030: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_15
+    21300032: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_16
+    21300034: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_17
+    21300036: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_18
+    21300038: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_19
+    21300040: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_20
+    21300042: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_21
+    21300044: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_22
+    21300046: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_23
+    21300048: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_24
+    21300050: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_25
+    21300052: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_26
+    21300054: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_27
+    21300056: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_28
+    21300058: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_29
+    21300060: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_30
+    21300062: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_31
+    21300064: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_32
+    21300066: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_33
+    21300068: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_34
+    21300070: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_35
+    21300072: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_36
+    21300074: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_37
+    21300076: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_38
+    21300078: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_39
+    21300080: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_40
+    21300082: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_41
+    21300084: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_42
+    21300086: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_43
+    21300088: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_44
+    21300090: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_45
+    21300092: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_46
+    21300094: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_47
+    21300096: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_48
+    21300098: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_49
+    21300100: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_50
+    21300102: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_51
+    21300104: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_52
+    21300106: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_53
+    21300108: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_54
+    21300110: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_55
+    21300112: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_56
+    21300114: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_57
+    21300116: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_58
+    21300118: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_59
+    21300120: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_60
+    21300122: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_61
+    21300124: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_62
+    21300126: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_63
+    21300128: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_64
+    21300130: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_65
+    21300132: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_66
+    21300134: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_67
+    21300136: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_68
+    21300138: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_69
+    21300140: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_70
+    21300142: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_71
+    21300144: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_72
+    21300146: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_73
+    21300148: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_74
+    21300150: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_75
+    21300152: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_76
+    21300154: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_77
+    21300156: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_78
+    21300158: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_79
+    21300160: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_80
+    21300162: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_81
+    21300164: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_82
+    21300166: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_83
+    21300168: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_84
+    21300170: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_85
+    21300172: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_86
+    21300174: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_87
+    21300176: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_88
+    21300178: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_89
+    21300180: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_90
+    21300182: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_91
+    21300184: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_92
+    21300186: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_93
+    21300188: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_94
+    21300190: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_95
+    21300192: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_96
+    21300194: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_97
+    21300196: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_98
+    21300198: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_99
+    21300200: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_100
+    21300202: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_101
+    21300204: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_102
+    21300206: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_103
+    21300208: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_104
+    21300210: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_105
+    21300212: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_106
+    21300214: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_107
+    21300216: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_108
+    21300218: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_109
+    21300220: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_110
+    21300222: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_111
+    21300224: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_112
+    21300226: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_113
+    21300228: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_114
+    21300230: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_115
+    21300232: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_116
+    21300234: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_117
+    21300236: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_118
+    21300238: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_119
+    21300240: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_120
+    21300242: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_121
+    21300244: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_122
+    21300246: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_123
+    21300248: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_124
+    21300250: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_125
+    21300252: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_126
+    21300254: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_127
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 483
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b576d66359e7b47a63c03bd1c54a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 481
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209603cfd609cfe4fa325bc108f244d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 483
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6020a8e2318d624aa1d3b79e1070f92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 481
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08fe4d2953616a8409f042a87bafb2ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 483
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6799a56c51667247926c4ec6d39423e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 481
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede5021a7d3dd34418729fe118204e12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 483
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c956a58e7a6ee418b31d90350d245f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 481
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da72fcd10b030d44a92ac853b43fc76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 451
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8258fd9e05194b64da9334fb9f955db6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 450
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4826cea241b04074fa04816c47a66399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 451
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713d14adf62efe4290c4248be3a65d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 450
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7ec23a193e723438d0886397270b20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 451
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea2d2ee85cd54459b304d291c2fbd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 450
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64828c51048a04bb1f7f8e6432f5f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 451
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0767561383e34504b8561e7be441ccfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 450
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095a7df5ce73cec408b17409dcd25f13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 420
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ed99c0246f2ad44aece23bb2b159ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 418
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609c1502654bd14bbc089ef57da8694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 420
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76508655d59d091468ecb7c7a3e77ba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 418
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d300afff49cd4c8aaf332146efa9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 420
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed834020d3433547b0e3a62a88a621a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 418
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7b501aef472364bbfbd6319543328e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 420
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5dc94e24db0048a6bf1146c997bcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_23
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 418
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a141180fb88a5fb4ca710f0078ca6a22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 386
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e81a1e7e61342488fb52c2b6b3431b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_25
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 384
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc97e24c2e8923b47ba77f9c4e283a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_26
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 386
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411e42101f3836240a3340bdf2f79bee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 384
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea707947270982409ddcb55ababfafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 386
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd74b64e2a06cc46bef635bac24ced5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 384
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7aeffbb23b24e4cacb2e6a2e11e9ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_30
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 386
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ad5a1d29320ba4fbe593895e1c1ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 384
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76b938546ae71148b3eb79d2adf3657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 355
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9907559646e5e2438b07c863c8a7b1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_33
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 353
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07121add2a96334e8105cb272d896eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 355
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef97cd9b500ffd42a0ed92f9d357ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_35
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 353
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3472b26ec250f064884e3afd7f79c4a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 355
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8631b5fde061204e8bd8b9507ccceaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_37
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 353
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f627543921b5844a38bfb7cff240fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_38
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 355
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6714e0fcb750cbd48a88d9fcef22e5c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 353
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08f80cbb2bf2a646ae8e57685a7b8e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 323
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccb6c3e13988d84e920a18bf5e98ca9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc902b2232ace7d4f9708adfe24a6d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_42
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 323
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62920c501de128d44a4a9466f0288abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 322
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3793e202875636f4487599386b2edfef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_44
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 323
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad989b3e5c065ca4b9e2dffb19d9860a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 322
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411de42e508122746be543e12d050d66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_46
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 323
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666772100c62e5342add99dff0ae7fef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_47
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 322
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40a202183a40f144ab6a08479e1bd0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 291
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b0e36211db9a8459b5038bbf666199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_49
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e10793b50605242b8858e282e567c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 291
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984d427952407347aa6b088516e7484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aedbaf065843f24ea7e545e9134259a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 291
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566361625d4ab9d47ba2615586d086f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 290
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a6b43fe4bbbc42b4c71372725eed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 291
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0af0d14d4649c43ac62e8d858d289d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_55
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 290
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764fa3140f45636488d73bf993f699ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5858b67ab478e334e8118b984c7a770c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf8ec8f636dbd34e8202b9847209a19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 258
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec5a2e65d99c3e47852f5fa2b5ee538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e30a6b171292241a39a85a53c20cee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_60
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 258
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db9f7b2650c3bf4a9affde8f6e8f66e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_61
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a291b84f89a5644f9bb2a7bc8f96083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 258
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebfe96520646a94f9ada8bca4ecda25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 256
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151bd9a6115062b45b899d093b3f608d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_64
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 227
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6ddd7fdab6be49987b36607a9ac3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_65
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 225
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18253ff9a0b79cf49acd2e59da0673f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 227
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158d8ecb47d00e4488d027c2d79695f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 225
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283fb04b1eb2b5740b638d111b03a97f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 227
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebdb68aea3107794f86d36520cb1f515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 225
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182daff7c4a40b14ab581bace53e5ebd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 227
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294690ebbeb2a054ea3913810885aa6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e2530fd02d8cd4d900de976a3fcd8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_72
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 196
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937bbad384f503f4eb45f56081686144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 195
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69f8633e12e9d24cae90141bf532d65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 196
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a7c0b7ea81354ca71d7299165b9a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 195
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f421f3b66c35d479b064652d39c1cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_76
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 196
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bed86af1da94904ba4d4127a4245414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_77
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 195
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3bab0c45e05b43bbad9d3a05d4742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_78
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 196
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f24928c3d239f46b9c9e0f788bb4a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_79
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 195
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88b64a86ef618c4f91197230acf4e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a5397383dbb8c4ca4c46bb1525d573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 163
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721084c8db651243b83abe5ce594e7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_82
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee043463f6ae104bbea81466d91a10e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 163
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8bfc7653bd99947bad7fd0b7810837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_84
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7e3e9d03cf4d4080d386c36038c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 163
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c84006de02821e45a6ec6c96adf4573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 164
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c5c0a2a6b597a48b66ad02fa2f4ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_87
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 163
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fcad733bb1ad3448edf8935e640e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_88
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044cdc59ed186aa44bd6b588ebd49f49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_89
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 129
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2884d9811ec737641a304fea6080f006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_90
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be81d6fb876811a4b9c5d84ae226ac00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 129
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e371db1396e01ae468ca7acf7f2f67fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_92
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8557b000656021c4ca750ab3c96be034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_93
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 129
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb27f7fdbf703846812224cccb97829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_94
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6be08a826be2e64a9959fd867db0a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 129
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fdc0b3e9b0ba449b3763a6cada9687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_96
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88e078aa05e7948a63ca68d29a6541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_97
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 97
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f42e58e1a14fb44ade9de494a1f0e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 99
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026bdcf95d17b38479f6a044af547571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_99
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a0379617b4e840a4e0101674635fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_100
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 99
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac74af528564b144ab36d5b2d44e80d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_101
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 97
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1784023b0a6c3ef44a35b3b8c91c637e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_102
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 99
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d22e70a51b49b41bdcccc66dab466a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_103
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 97
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c65bef7362b4749b4282cac4d592d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e16fcc169522e6478f8b59e7d3c26ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 66
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f760f14dfb965d54ba557be8120c1d0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4ff64e5547d584095fbece364e7379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_107
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 66
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5032b0f2182fdcf42b9e26f155487f16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab60c49f337c34396995bee4b9fde7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_109
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 66
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426e310bc697bcd4c9c4568e9f4eb2a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_110
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 67
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3362fd0467bb0204bbf3d0baf2e0f6aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_111
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ac5328b2e41cc4089dde61fc744982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_112
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c147181c2a8c04ab67ca02f461c7ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_113
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 34
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b8dcc41a343c43bb939a2df4f826e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_114
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 35
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2baffb368645d8478f290cba79a29aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_115
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6002f3c8d4636246b161a5d9ea7e7c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_116
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 35
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8456482dc728a408dfb42351602849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_117
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 34
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6efafcce6882a43b0d9d91ef76c86a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_118
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 35
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1eed460d21066645bdf33c535962fbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_119
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 34
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccde2282417fe2418f16a7b57ce9c96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99908faa84d7c9a418c614361e2b720c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_121
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94fe38ee4155e40b11f516bd6a6518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_122
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbdf2deaafdefb4797bac421538f548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_123
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea194070348f248b13f4a5df732721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_124
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29241b7486ec9c84c93304f3ccd72b54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_125
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e5b33850f8cea4699a7f3a58b3a998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_126
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8041739a2155b5c4d92eab4b93c8db11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rockruff_and_lycanroc_overworlds_by_princess_phoenix-dby0puk_127
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecdd69c58fa213498cf410289c61e07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa58527b6dea8114c91947ce62c5e12d
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

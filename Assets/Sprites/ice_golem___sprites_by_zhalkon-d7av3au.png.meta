@@ -1,0 +1,368 @@
+fileFormatVersion: 2
+guid: 132c29cf872c7f0428eb19620877f3fe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ice_golem___sprites_by_zhalkon-d7av3au_0
+    21300002: ice_golem___sprites_by_zhalkon-d7av3au_1
+    21300004: ice_golem___sprites_by_zhalkon-d7av3au_2
+    21300006: ice_golem___sprites_by_zhalkon-d7av3au_3
+    21300008: ice_golem___sprites_by_zhalkon-d7av3au_4
+    21300010: ice_golem___sprites_by_zhalkon-d7av3au_5
+    21300012: ice_golem___sprites_by_zhalkon-d7av3au_6
+    21300014: ice_golem___sprites_by_zhalkon-d7av3au_7
+    21300016: ice_golem___sprites_by_zhalkon-d7av3au_8
+    21300018: ice_golem___sprites_by_zhalkon-d7av3au_9
+    21300020: ice_golem___sprites_by_zhalkon-d7av3au_10
+    21300022: ice_golem___sprites_by_zhalkon-d7av3au_11
+    21300024: ice_golem___sprites_by_zhalkon-d7av3au_12
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 374
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea5d983d5a97534e8020657f2840719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 374
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc93a8aa14925b449a604b393a82a018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_2
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 374
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c39f65cb373ab469dad69e477b28c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 371
+        width: 155
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ffaeccbdf264e48a045ab3dcd4e1f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_4
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 360
+        width: 144
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cfbe5c26ee502048b863f404eb383d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 226
+        width: 154
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa328fd0f1fd9094c94c26723194f597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 227
+        width: 130
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f446f5b39db9e843b60b5b63dc6cfde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 228
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1decd1a02580a40a823436f6a3fec2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 159
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853b69a7b6c8d6740998dbe97df2e25f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 23
+        width: 198
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb63da02f8a37542af238d3a14bbcdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 21
+        width: 179
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef5d2b0c803cf849874c234ad5fe7c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_11
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 23
+        width: 161
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2923471cd7a834abee726bd4aef466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice_golem___sprites_by_zhalkon-d7av3au_12
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 0
+        width: 210
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acad62dea739584b8b9a09bb2bc5fe1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c2042cbc26701464fbb0d449d26630db
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
