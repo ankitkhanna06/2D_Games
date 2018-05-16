@@ -6,11 +6,13 @@ public class NewBehaviourScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        
+       
 	}
 	
 	// Update is called once per frame
 	void Update () {
-        print("Hey!, I am a Squirrel");
+        bool left = Input.GetKey(KeyCode.LeftArrow);
+
+        print("Pingu");
     }
 }
