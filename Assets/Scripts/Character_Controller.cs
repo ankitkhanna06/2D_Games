@@ -9,7 +9,8 @@ public class Character_Controller : MonoBehaviour {
     private Animation animation;
 	// Use this for initialization
 	void Start () {
-        animation = GetComponent<Animation>();
+        var CharTransform = gameObject.transform;
+        var CharAnimator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -25,12 +26,12 @@ public class Character_Controller : MonoBehaviour {
         if (moveX > 0)
         {
             facingRight = true;
-            animation.Pslay("Walk");
+            //animation.Play("Walk");
         }
         else if((moveX < 0))
                 {
            // facingRight = false;
-           animation.transform.Rotate(0f, 180f, 0f);
+           gameObject.transform.Rotate(new Vector3(0.0f,1.0f,0.0f),180);
             }
         if(((facingRight) && (localScale.x >0)) || (facingRight) && (localScale.x < 0))
         {
