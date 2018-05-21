@@ -27,4 +27,8 @@ public class Moving_Platform : MonoBehaviour {
         }
         this.transform.Translate(speed * Time.deltaTime,0f, 0f);
     }
+    void OnCollidingWithPlatform(Collider2D coll)
+    {
+        
+        }
 }
